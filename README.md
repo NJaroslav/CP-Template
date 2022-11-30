@@ -1,2 +1,2 @@
 # CP-Template
-This is my most used template for competitive programming.
+This is my mostly used template for competitive programming.
